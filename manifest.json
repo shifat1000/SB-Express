@@ -1,0 +1,16 @@
+{
+  "name": "এসবি এক্সপ্রেস লিঃ - এজেন্ট পয়েন্ট",
+  "short_name": "এসবি এক্সপ্রেস",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#17202a",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "header.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
